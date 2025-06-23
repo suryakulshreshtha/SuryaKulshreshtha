@@ -1,0 +1,54 @@
+import random, sys, time
+
+PAUSE = 0.15  # Try changing this to 0.5 or 0.0.
+
+# These are the individual rows of the DNA animation:
+
+ROWS = [
+    #123456789 <- Use this to measure the number of spaces:
+    '         ##',  # Index 0 has no {}.
+    '        #{}-{}#',
+    '       #{}---{}#',
+    '      #{}-----{}#',
+    '     #{}------{}#',
+    '    #{}------{}#',
+    '    #{}-----{}#',
+    '     #{}---{}#',
+    '     #{}-{}#',
+    '      ##',  # Index 9 has no {}.
+    '     #{}-{}#',
+    '     #{}---{}#',
+    '    #{}-----{}#',
+    '    #{}------{}#',
+    '     #{}------{}#',
+    '      #{}-----{}#',
+    '       #{}---{}#',
+    '        #{}-{}#'
+]  
+# End of ROWS list
+
+try:
+    print('DNA Animation, by Surya Kulshreshtha')
+    print('Press Ctrl-C to quit...')
+    time.sleep(2)
+    rowIndex = 0
+
+    while True:  # Main program loop.
+        # Increment rowIndex to draw next row:
+        rowIndex = (rowIndex + 1) % len(ROWS)
+
+        # Row indexes 0 and 9 don't have nucleotides:
+        if rowIndex == 0 or rowIndex == 9:
+            print(ROWS[rowIndex])
+            continue
+
+        # Select random nucleotide pairs:
+        pairings = [('A', 'T'), ('T', 'A'), ('C', 'G'), ('G', 'C')]
+        leftNucleotide, rightNucleotide = random.choice(pairings)
+
+        # Print the row.
+        print(ROWS[rowIndex].format(leftNucleotide, rightNucleotide))
+        time.sleep(PAUSE)
+
+except KeyboardInterrupt:
+    sys.exit()
