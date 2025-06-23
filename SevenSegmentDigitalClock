@@ -1,0 +1,44 @@
+"""Digital Clock, by Surya Kulshreshtha
+Displays the current time using a seven-segment display. Press Ctrl-C to stop.
+Requires sevseg.py to be in the same folder or as a package installed from pypi.com .
+"""
+
+import sys
+import time
+import sevseg  # Custom module for 7-segment display
+
+def get_current_time():
+    now = time.localtime()
+    hour = str(now.tm_hour % 12 or 12)  # 12-hour format, show '12' instead of '0'
+    minute = str(now.tm_min).zfill(2)
+    second = str(now.tm_sec).zfill(2)
+    return hour.zfill(2), minute, second
+
+def display_time(h, m, s):
+    h_top, h_mid, h_bot = sevseg.getSevSegStr(h, 2).splitlines()
+    m_top, m_mid, m_bot = sevseg.getSevSegStr(m, 2).splitlines()
+    s_top, s_mid, s_bot = sevseg.getSevSegStr(s, 2).splitlines()
+
+    print('\n' * 60)
+    print(f"{h_top}     {m_top}     {s_top}")
+    print(f"{h_mid}  *  {m_mid}  *  {s_mid}")
+    print(f"{h_bot}  *  {m_bot}  *  {s_bot}")
+    print("\nPress Ctrl-C to quit.")
+
+def main():
+    try:
+        while True:
+            hour, minute, second = get_current_time()
+            display_time(hour, minute, second)
+
+            # Wait until second changes
+            while True:
+                time.sleep(0.01)
+                if time.localtime().tm_sec != int(second):
+                    break
+    except KeyboardInterrupt:
+        print("\nDigital Clock exited.")
+        sys.exit()
+
+if __name__ == '__main__':
+    main()
