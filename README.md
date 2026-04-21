@@ -7,4 +7,4 @@ ________________________________________________________________________________
 | 🚀 Current Endeavour  | Python + Automation using *Playwright* |
 | 🤝 Collaboration | Looking to collaborate on projects |
 | 📧 Contact   | www.suryakulshreshtha.in |
-| 📂 Repositories | Total of **6 repositories available** |
+| 📂 Repositories | Need to know basis |
