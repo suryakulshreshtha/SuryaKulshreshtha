@@ -17,7 +17,7 @@ ________________________________________________________________________________
 | JavaScript, Node.js, TypeScript, Python	| Team Collaboration | Git & GitHub & GitLab
 | HTML, CSS, React.js, Next.js, React Native, Tailwind CSS	| Problem-Solving	| Postman
 | Express.js, FastAPI	| Critical Thinking	| Docker
-| MongoDB, PostgreSQL (Neon), SQLite, Redis	| Communication	|
+| MongoDB, MSSQL	| Communication	| Compass, SSMS
 
 ________________________________________________________________________________________
 ## ✅ Quick Details  
