@@ -2,7 +2,7 @@ Those things that matter, stepping stones that get stepped on but the other way 
 ________________________________________________________________________________________
 ## 🧑🏻‍💻 Surya Kulshreshtha 
 
-| Skill / Area | Details |
+| Info | Details |
 |--------------|---------|
 | 🚀 Current Endeavour  | Python + Automation using *Playwright* |
 | 🤝 Collaboration | Looking to collaborate on projects |
@@ -13,6 +13,6 @@ ________________________________________________________________________________
 ________________________________________________________________________________________
 ## 📊 GitHub Stats
 
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryakulshreshtha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakulshreshtha&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryakulshreshtha&theme=radical)
+| ✅ | 📊 |
+|--------------|---------|
+| ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryakulshreshtha&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryakulshreshtha&theme=radical) |
