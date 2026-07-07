@@ -24,5 +24,4 @@ ________________________________________________________________________________
 
 | 📊 GitHub Stats | 🔥 Contributions | 💻 Top Languages | 
 |--------------|---------|----------|
-| ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryakulshreshtha&show_icons=true&theme=radical)
- | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryakulshreshtha&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakulshreshtha&layout=compact&theme=radical) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryakulshreshtha&theme=radical) | ForkablePythonProjectShowcase, ForkablePythonLearningShowcase | Python |
