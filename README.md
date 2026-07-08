@@ -13,8 +13,10 @@ ________________________________________________________________________________
 ### 🧪 Featured Project
 
 **[Playwright Python Pytest Framework](https://github.com/suryakulshreshtha/ForkablePythonProjectShowcase)**
-End-to-end test automation framework — UI + API testing, network mocking, Page Object Model, data-driven tests, Docker, and GitHub Actions CI. Built with Playwright, Python, and Pytest.
+Project showcasing End-to-end test automation framework — UI + API testing, network mocking, Page Object Model, data-driven tests, Docker, and GitHub Actions CI. Built with Playwright, Python, and Pytest.
 
+**[Playwright Python Pytest Framework](https://github.com/suryakulshreshtha/ForkablePythonLearningShowcase)**
+Learning showcasing End-to-end test automation framework — UI + API testing, network mocking, Page Object Model, data-driven tests, Docker, and GitHub Actions CI. Built with Playwright, Python, and Pytest.
 ________________________________________________________________________________________
 🚀 Skills
 
