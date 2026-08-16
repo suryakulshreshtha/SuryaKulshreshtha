@@ -9,7 +9,7 @@ ________________________________________________________________________________
 | 🔬 Latest Build | [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline |
 | 🤝 Collaboration | Looking to collaborate on projects |
 | 📧 Contact   | www.suryakulshreshtha.in |
-| 📂 Repositories | Need to know basis  |
+| 📂 Repositories | Need to know basis, Looking to collaborate on projects.  |
 
 ________________________________________________________________________________________
 ### 🧪 Featured Project
