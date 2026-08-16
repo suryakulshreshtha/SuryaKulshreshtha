@@ -1,4 +1,4 @@
-Those things that matter, stepping stones that get stepped on but the other way round !!
+**SDET / Test Automation Engineer** — Playwright · Python · TypeScript · CI/CD.
 ________________________________________________________________________________________
 ## 🧑🏻‍💻 Surya Kulshreshtha 
  
