@@ -51,9 +51,11 @@ ________________________________________________________________________________
 ________________________________________________________________________________________
 ## ✅ Quick Details  
 
+
 | 📊 GitHub Stats | 🔥 Contributions | 💻 Top Languages | 
-|--------------|---------|----------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryakulshreshtha&theme=radical) | ForkablePythonProjectShowcase, ForkablePythonLearningShowcase, Forkable04EyePythonPlaywrightLearning, ForkableTypescriptPostgreReactNodejsLearning | Python, TypeScript |
+|-----------------|------------------|-----------------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryakulshreshtha&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryakulshreshtha&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakulshreshtha&layout=compact&theme=radical) |
+
 
 
 ---
