@@ -33,7 +33,7 @@ Learning showcasing End-to-end test automation framework — UI + API testing, n
 
 **[Typescript Postgre React NodeJS](https://github.com/suryakulshreshtha/ForkableTypescriptPostgreReactNodejsLearning)** A full-stack playground built with TypeScript, React, Node.js, and PostgreSQL. Learn, experiment, and grow with APIs, UI, and Playwright E2E tests — all powered by CI/CD magic.
 
-**[Typescript & Python with Playwright Interview Notes](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)** Explore ForkableInterviewToolkit — runnable Python + Playwright & Typescript + Playwright interview prep that turns every answer into executable proof. Direct Answer → Real-Time Example → Code → STAR Answer → Interview-Ready Answer → Interview Tip → One-Line Revision
+**[Typescript & Python with Playwright Interview Notes](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)** Typescript & Python with Playwright Interview Notes + Git‑CICD‑Survival‑Guide — Explore ForkableInterviewToolkit: runnable interview prep that turns every Git, Python, and Playwright answer into executable proof. Direct Answer → Real‑Time Example → Code → STAR Answer → Interview‑Ready Answer → Interview Tip → One‑Line Revision
 
 
 
