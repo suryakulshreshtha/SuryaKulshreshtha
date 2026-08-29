@@ -1,285 +1,97 @@
 # 👋 Surya Kulshreshtha
 
-**SDET | Test Automation Architect | Python • Playwright • TypeScript**
+**SDET · Test Automation Architect** — Python • Playwright • TypeScript • CI/CD
 
- Based in 🇮🇳 | 
+🇮🇳 
 
-[![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-blue?style=flat-square&logo=globe)](https://www.suryakulshreshtha.in)
-[![GitHub](https://img.shields.io/badge/GitHub-suryakulshreshtha-black?style=flat-square&logo=github)](https://github.com/suryakulshreshtha)
-[![Email](https://img.shields.io/badge/Email-kulshreshtha.surya%40engineer.com-red?style=flat-square&logo=gmail)](mailto:kulshreshtha.surya@engineer.com)
+[![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in)
+[![Email](https://img.shields.io/badge/Email-kulshreshtha.surya@engineer.com-ea4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:kulshreshtha.surya@engineer.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha)
 
----
-
-## 🎯 About Me
-
-I'm a **Software Development Engineer in Test (SDET)** obsessed with building **robust, maintainable, and scalable test automation frameworks**. I specialize in creating production-grade test solutions using **Playwright**, **Python**, and **TypeScript** with enterprise CI/CD integration.
-
-**Philosophy:** *Those things that matter, stepping stones that get stepped on but the other way round!!* — Tests that catch bugs before they reach production.
+> *Those things that matter — stepping stones that get stepped on, but the other way round.*
 
 ---
 
-## 🚀 What I Do
+## 🧭 This repository is my index
 
-- 🧪 **End-to-End Test Automation** — Playwright-based E2E frameworks with POM pattern
-- 🔧 **Test Framework Architecture** — Designing scalable, maintainable testing solutions
-- 🤖 **Self-Healing Tests** — AI-powered locator repair and intelligent test recovery
-- 🔗 **API & Integration Testing** — REST API testing, mocking, payload validation
-- 📊 **CI/CD Pipelines** — GitHub Actions, Docker, automated test reporting
-- 🎓 **QA Architecture** — Building testing strategies for enterprise applications
+Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it or throw it away. This page is the map — what each repo is, what stack it uses, and the order to read them in.
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Repository Index
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🎯 Start here
 
-### **Testing & Automation**
-![Playwright](https://img.shields.io/badge/Playwright-00C7B7?style=for-the-badge&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+| Repo | What it is | Stack |
+|---|---|---|
+| **[ForkablePythonProjectShowcase](https://github.com/suryakulshreshtha/ForkablePythonProjectShowcase)** | End-to-end test automation framework — UI + API, Page Object Model, network mocking, Docker, GitHub Actions CI | `Python` `Playwright` `Pytest` `Docker` |
+| **[ForkablePlaywrightSelfHealer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer)** | Self-healing Playwright tests written from plain-English specs; repairs broken locators offline, heuristics first with optional local LLM | `Python` `Playwright` |
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🎓 Learn the fundamentals
 
-### **Databases & Backend**
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+| Repo | What it is | Stack |
+|---|---|---|
+| **[ForkablePythonLearningShowcase](https://github.com/suryakulshreshtha/ForkablePythonLearningShowcase)** | Test automation fundamentals, built up step by step | `Python` |
+| **[Forkable04EyePythonPlaywrightLearning](https://github.com/suryakulshreshtha/Forkable04EyePythonPlaywrightLearning)** | E2E testing workflows — sample suites wired to GitHub Actions CI | `Python` `Playwright` |
+| **[Forkable04EyeLearningSandbox](https://github.com/suryakulshreshtha/Forkable04EyeLearningSandbox)** | Scratchpad for testing practitioners — experiments, patterns, spikes | `Python` |
 
----
+### 🌐 Full stack & career
 
-## 📚 Featured Projects
+| Repo | What it is | Stack |
+|---|---|---|
+| **[ForkableTypescriptPostgreReactNodejsLearning](https://github.com/suryakulshreshtha/ForkableTypescriptPostgreReactNodejsLearning)** | Full-stack playground — an app worth testing, front to back | `TypeScript` `React` `Node.js` `PostgreSQL` |
+| **[ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)** | Interview prep for QA/SDET roles, with runnable proof rather than bullet points | `TypeScript` `Python` |
 
-### 🎭 **ForkablePlaywrightSelfHealer** ⭐ **PRODUCTION-GRADE**
-**Self-healing Playwright tests with AI-powered locator repair**
-- 🧠 Heuristic-first approach with optional local LLM integration
-- 🔧 125+ test cases demonstrating patterns
-- 🏗️ Enterprise-ready architecture for large-scale automation
-- 🌐 [View Repository](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer)
+### 📌 Suggested reading order
 
-```python
-# Self-healing in action
-test = AutoHealing(locator="button[data-id='submit']")
-test.click()  # Repairs locator automatically if needed
+```
+Forkable04EyeLearningSandbox        →  poke at things, no stakes
+ForkablePythonLearningShowcase      →  learn the primitives
+Forkable04EyePythonPlaywrightLearning →  put a suite in CI
+ForkablePythonProjectShowcase       →  the full framework
+ForkablePlaywrightSelfHealer        →  make it survive the app changing
+ForkableInterviewToolkit            →  talk about all of it convincingly
 ```
 
 ---
 
-### 🚀 **ForkablePythonProjectShowcase** ⭐ **FULL-FEATURED**
-**End-to-end test automation framework with Playwright + Python + Pytest**
-- 📋 UI Testing with Playwright
-- 🔗 API Testing with requests library
-- 🎯 Page Object Model (POM) pattern
-- 🎭 Network mocking & interception
-- 🐳 Docker containerization
-- ⚡ GitHub Actions CI/CD pipeline
-- 📊 HTML & Allure test reporting
-- 🌐 [View Repository](https://github.com/suryakulshreshtha/ForkablePythonProjectShowcase)
+## 🛠️ Stack
 
-```bash
-# Quick Start
-git clone https://github.com/suryakulshreshtha/ForkablePythonProjectShowcase
-cd ForkablePythonProjectShowcase
-pip install -r requirements.txt
-pytest --headed  # Run with visible browser
-```
+**Languages** ·  Python · TypeScript · JavaScript · SQL
+**Testing** ·  Playwright · Pytest · Page Object Model · API & contract testing · network mocking
+**App/Backend** ·  Node.js · Express · FastAPI · React · Next.js
+**Data** ·  PostgreSQL · MongoDB · MSSQL
+**Ops** ·  Docker · GitHub Actions · Git · GitLab · Postman
 
 ---
 
-### 📖 **ForkablePythonLearningShowcase**
-**Comprehensive test automation learning framework**
-- 🎓 Foundational concepts for test automation
-- 💡 Step-by-step examples with explanations
-- 🔄 Pytest fixtures and parametrization
-- 🌐 [View Repository](https://github.com/suryakulshreshtha/ForkablePythonLearningShowcase)
+## 🎯 What I work on
+
+- **Framework architecture** — layering, fixtures, test data strategy, keeping suites maintainable past 500 tests
+- **Flake elimination** — deterministic waits, isolation, retries that don't hide bugs
+- **Self-healing automation** — locators that survive UI churn without a human in the loop
+- **CI/CD for tests** — parallelisation, containerised runs, reporting that people actually read
+- **API + UI in one suite** — setting state through the API, asserting through the UI
 
 ---
 
-### 🎬 **Forkable04EyePythonPlaywrightLearning**
-**E2E testing workflows with sample tests**
-- ✅ Real-world test scenarios
-- 🔄 GitHub Actions CI integration
-- 📚 Best practices demonstrated
-- 🌐 [View Repository](https://github.com/suryakulshreshtha/Forkable04EyePythonPlaywrightLearning)
+## 🗄️ Archive — early notes, kept on purpose
+
+These predate the automation work by about a decade. They stay because they were useful once, and the "how do I start" one still is.
+
+| File | Why it's still here |
+|---|---|
+| [How do I learn programming & subsequently software development?](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/How%20do%20I%20learn%20programming%20%26%20subsequently%20software%20development%20%28Android%20%26%20iOS%20in%20particular%29%20%3F) | Still the answer I'd give someone starting out |
+| [50 Programming Languages That Matter](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/50%20Programming%20Languages%20That%20Matter) | ~2015 snapshot. Left unedited — a time capsule of what "mattered" then |
+| [Xcode Keyboard Shortcuts](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/Xcode%20Keyboard%20Shortcuts.md) | Reformatted and refreshed for current Xcode |
+| [Rock Paper Scissors in Python](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/Rock%20Paper%20Scissors%20in%20Python) | The first thing I wrote here. It stays. |
 
 ---
 
-### 🌍 **ForkableTypescriptPostgreReactNodejsLearning**
-**Full-stack testing environment**
-- ⚛️ React frontend with Playwright E2E tests
-- 🔗 Node.js + Express backend API testing
-- 🗄️ PostgreSQL database integration
-- 📚 Full-stack testing patterns
-- 🌐 [View Repository](https://github.com/suryakulshreshtha/ForkableTypescriptPostgreReactNodejsLearning)
+## 🤝 Open to
 
----
+Test automation framework collaboration · QA architecture reviews · mentoring people moving into SDET work · anything involving making a flaky suite trustworthy.
 
-### 💼 **ForkableInterviewToolkit**
-**SDET Interview preparation & runnable proof**
-- ✍️ Curated SDET interview questions
-- 💻 Runnable code solutions
-- 🎯 Real-world problem scenarios
-- 📝 Best practices and explanations
-- 🌐 [View Repository](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)
+📬 **[kulshreshtha.surya@engineer.com](mailto:kulshreshtha.surya@engineer.com)** · 🌐 **[suryakulshreshtha.in](https://www.suryakulshreshtha.in)**
 
----
-
-### 🧪 **Forkable04EyeLearningSandbox**
-**Testing playground & experimentation space**
-- 🎮 Hands-on learning environment
-- 🧬 Testing patterns & techniques
-- 🔬 Experimental test approaches
-- 🌐 [View Repository](https://github.com/suryakulshreshtha/Forkable04EyeLearningSandbox)
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Total Repositories</strong><br/>
-      <code>8+</code>
-    </td>
-    <td align="center">
-      <strong>Primary Focus</strong><br/>
-      <code>Test Automation</code>
-    </td>
-    <td align="center">
-      <strong>Commits</strong><br/>
-      <code>500+</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Key Expertise Areas
-
-### **SDET Practices**
-- ✅ Page Object Model (POM) & design patterns
-- ✅ Test data management & factories
-- ✅ CI/CD pipeline integration
-- ✅ Flaky test detection & elimination
-- ✅ Test parallelization & optimization
-- ✅ Custom assertions & utilities
-
-### **Playwright Mastery**
-- ✅ Cross-browser testing (Chrome, Firefox, Safari)
-- ✅ Network interception & mocking
-- ✅ HAR recording & replay
-- ✅ Visual regression testing
-- ✅ Mobile emulation testing
-- ✅ Performance testing
-
-### **Python Automation**
-- ✅ Pytest fixtures & parametrization
-- ✅ Request library for API testing
-- ✅ Async/await patterns
-- ✅ Custom test decorators
-- ✅ Logging & debugging strategies
-- ✅ Test report generation
-
-### **TypeScript Testing**
-- ✅ Jest test framework
-- ✅ Type-safe test automation
-- ✅ Mock/stub patterns
-- ✅ Async testing strategies
-- ✅ Integration with Playwright
-
-### **Architecture & Design**
-- ✅ Test framework design from scratch
-- ✅ Scalable test infrastructure
-- ✅ Test reporting & analytics
-- ✅ Docker containerization
-- ✅ GitHub Actions workflows
-- ✅ Best practices & documentation
-
----
-
-## 🌟 Highlights
-
-| Achievement | Details |
-|------------|---------|
-| **Self-Healing Tests** | AI-powered locator repair with heuristic-first approach |
-| **Enterprise Frameworks** | Production-ready test automation solutions |
-| **Full-Stack Testing** | E2E + API + Database testing in one solution |
-| **GitHub Actions Expert** | Automated CI/CD pipelines for test execution |
-| **Interview Prep** | Curated SDET interview toolkit with runnable solutions |
-| **Learning Focused** | Multiple frameworks designed for education & knowledge sharing |
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in:
-- 🧪 Collaborating on **test automation frameworks**
-- 🤔 Discussing **QA architecture** and **testing strategies**
-- 📚 Mentoring **aspiring SDETs**
-- 🚀 Contributing to **open-source testing projects**
-- 💡 Exploring **AI-powered testing solutions**
-
-### Get in Touch
-- 💼 **Website:** [suryakulshreshtha.in](https://www.suryakulshreshtha.in)
-- 📧 **Email:** [kulshreshtha.surya@engineer.com](mailto:kulshreshtha.surya@engineer.com)
-- 🔗 **GitHub:** [@suryakulshreshtha](https://github.com/suryakulshreshtha)
-- 💻 **LinkedIn:** [/in/suryakulshreshtha](https://linkedin.com/in/suryakulshreshtha) *(if applicable)*
-
----
-
-## 📌 Quick Links
-
-```
-📂 Repositories
-├── 🎭 ForkablePlaywrightSelfHealer        [Self-healing tests]
-├── 🚀 ForkablePythonProjectShowcase       [Full E2E framework]
-├── 📖 ForkablePythonLearningShowcase      [Learning material]
-├── 🎬 Forkable04EyePythonPlaywrightLearning [E2E workflows]
-├── 🌍 ForkableTypescriptPostgreReactNodejsLearning [Full-stack]
-├── 💼 ForkableInterviewToolkit            [Interview prep]
-├── 🧪 Forkable04EyeLearningSandbox       [Sandbox environment]
-└── 📝 suryakulshreshtha                   [This profile]
-```
-
----
-
-## 🎓 Philosophy
-
-> *"Automated tests are not just about finding bugs — they're about building confidence in your code. Every test should tell a story of intent."*
-
-I believe in:
-- **Maintainable code** over clever hacks
-- **Clear abstractions** over duplication
-- **Runnable examples** over theoretical knowledge
-- **Continuous learning** in a rapidly evolving QA landscape
-
----
-
-## 📈 What's Next
-
-🚀 Working on:
-- Advanced Playwright patterns & techniques
-- AI-powered test automation innovations
-- QA architecture & best practices documentation
-- SDET mentoring & community engagement
-
----
-
-<div align="center">
-
-**Made with ❤️ for the QA & Test Automation Community**
-
-⭐ If you find my frameworks useful, consider giving them a star! ⭐
-
-![Profile views](https://komarev.com/ghpvc/?username=suryakulshreshtha&color=blue&style=flat)
-
-</div>
+<sub>⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.</sub>
