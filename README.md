@@ -14,6 +14,8 @@
 
 ## 🧭 This repository is my index
 
+<sub>⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.</sub>
+
 Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it or throw it away. This page is the map — what each repo is, what stack it uses, and the order to read them in.
 
 ---
@@ -94,4 +96,3 @@ Test automation framework collaboration · QA architecture reviews · mentoring 
 
 📬 **[kulshreshtha.surya@engineer.com](mailto:kulshreshtha.surya@engineer.com)** · 🌐 **[suryakulshreshtha.in](https://www.suryakulshreshtha.in)**
 
-<sub>⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.</sub>
