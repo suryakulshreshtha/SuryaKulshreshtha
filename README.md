@@ -97,5 +97,5 @@ These predate the automation work by about a decade. They stay because they were
 
 Test automation framework collaboration · QA architecture reviews · mentoring people moving into SDET work · anything involving making a flaky suite trustworthy.
 
-📬 **[kulshreshtha.surya@engineer.com](mailto:kulshreshtha.surya@engineer.com)** · 🌐 **[suryakulshreshtha.in](https://www.suryakulshreshtha.in)**
+📬 · 🌐 **[suryakulshreshtha.in](https://www.suryakulshreshtha.in)**
 
