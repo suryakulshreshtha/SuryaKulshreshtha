@@ -8,7 +8,7 @@
 | Info | Details |
 |--------------|---------|
 | 🚀 Current Endeavour  | Python + Automation using *Playwright* |
-| 🔬 Latest Build | [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline |
+| 🔬 Latest Build | [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline. [ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit) - Interview prep for QA/SDET roles, with runnable proof rather than bullet points. |
 | 🤝 Collaboration | Looking to collaborate on projects |
 | 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), [![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white)], [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
 | 📂 Repositories | Looking to collaborate on projects.  |
