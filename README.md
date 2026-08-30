@@ -4,17 +4,20 @@
 
 🇮🇳 
 
-[![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in)
-[![Email](https://img.shields.io/badge/Email-kulshreshtha.surya@engineer.com-ea4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:kulshreshtha.surya@engineer.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha)
 
-> *Those things that matter — stepping stones that get stepped on, but the other way round.*
+| Info | Details |
+|--------------|---------|
+| 🚀 Current Endeavour  | Python + Automation using *Playwright* |
+| 🔬 Latest Build | [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline |
+| 🤝 Collaboration | Looking to collaborate on projects |
+| 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), [![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white)], [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
+| 📂 Repositories | Looking to collaborate on projects.  |
+
+> *⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.*
 
 ---
 
 ## 🧭 This repository is my index
-
-<sub>⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.</sub>
 
 Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it or throw it away. This page is the map — what each repo is, what stack it uses, and the order to read them in.
 
