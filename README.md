@@ -8,7 +8,7 @@
 | Info | Details |
 |--------------|---------|
 | 🚀 Current Endeavour  | Python + Automation using *Playwright* |
-| 🔬 Latest Build | [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline. [ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit) - Interview prep for QA/SDET roles, with runnable proof rather than bullet points. |
+| 🔬 Latest Build | [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline. [ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit) - Interview prep for QA/SDET roles, with runnable proof rather than bullet points. [ForkableFullStackQASuite](https://github.com/suryakulshreshtha/ForkableFullStackQASuite) — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.|
 | 🤝 Collaboration | Looking to collaborate on projects |
 | 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), [![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white)], [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
 | 📂 Repositories | Looking to collaborate on projects.  |
@@ -44,6 +44,7 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 
 | Repo | What it is | Stack |
 |---|---|---|
+| **[ForkableFullStackQASuite](https://github.com/suryakulshreshtha/ForkableFullStackQASuite)** | Dual-language test suite for an employee CRM — REST API, role-based visibility, MSSQL ground truth, Chart.js data checks; two teams, one shared test plan | `TypeScript` `Python` `Playwright` `MSSQL` |
 | **[ForkableTypescriptPostgreReactNodejsLearning](https://github.com/suryakulshreshtha/ForkableTypescriptPostgreReactNodejsLearning)** | Full-stack playground — an app worth testing, front to back | `TypeScript` `React` `Node.js` `PostgreSQL` |
 | **[ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)** | Interview prep for QA/SDET roles, with runnable proof rather than bullet points | `TypeScript` `Python` |
 
@@ -54,6 +55,7 @@ Forkable04EyeLearningSandbox        →  poke at things, no stakes
 ForkablePythonLearningShowcase      →  learn the primitives
 Forkable04EyePythonPlaywrightLearning →  put a suite in CI
 ForkablePythonProjectShowcase       →  the full framework
+ForkableFullStackQASuite            →  two teams, two languages, one test plan
 ForkablePlaywrightSelfHealer        →  make it survive the app changing
 ForkableInterviewToolkit            →  talk about all of it convincingly
 ```
@@ -64,7 +66,7 @@ ForkableInterviewToolkit            →  talk about all of it convincingly
 
 **Languages** ·  Python · TypeScript · JavaScript · SQL
 **Testing** ·  Playwright · Pytest · Page Object Model · API & contract testing · network mocking
-**App/Backend** ·  Node.js · Express · FastAPI · React · Next.js
+**App/Backend** · Node.js · Express · FastAPI · React · Next.js · Chart.js
 **Data** ·  PostgreSQL · MongoDB · MSSQL
 **Ops** ·  Docker · GitHub Actions · Git · GitLab · Postman
 
@@ -77,6 +79,7 @@ ForkableInterviewToolkit            →  talk about all of it convincingly
 - **Self-healing automation** — locators that survive UI churn without a human in the loop
 - **CI/CD for tests** — parallelisation, containerised runs, reporting that people actually read
 - **API + UI in one suite** — setting state through the API, asserting through the UI
+- **Multi-team test governance** — one shared test plan and fixture set, independently implemented in TypeScript and Python so two teams catch different blind spots
 
 ---
 
