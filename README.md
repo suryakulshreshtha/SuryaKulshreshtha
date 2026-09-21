@@ -65,9 +65,13 @@ ForkableInterviewToolkit            →  talk about all of it convincingly
 ## 🛠️ Stack
 
 **Languages** ·  Python · TypeScript · JavaScript · SQL
+
 **Testing** ·  Playwright · Pytest · Page Object Model · API & contract testing · network mocking
+
 **App/Backend** · Node.js · Express · FastAPI · React · Next.js · Chart.js
+
 **Data** ·  PostgreSQL · MongoDB · MSSQL
+
 **Ops** ·  Docker · GitHub Actions · Git · GitLab · Postman
 
 ---
