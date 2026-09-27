@@ -1,4 +1,4 @@
-# 👋 Surya Kulshreshtha
+# 👋 Surya Kulshreshtha -> [About Me](https://suryakulshreshtha.github.io)
 
 **SDET · Test Automation Architect** — Python • Playwright • TypeScript • CI/CD
 
