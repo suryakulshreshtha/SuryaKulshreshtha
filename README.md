@@ -7,8 +7,8 @@
 
 | Info | Details |
 |--------------|---------|
-| 🚀 Current Endeavour  | Python + Automation using *Playwright* |
-| 🔬 Latest Build | [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline. [ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit) - Interview prep for QA/SDET roles, with runnable proof rather than bullet points. [ForkableFullStackQASuite](https://github.com/suryakulshreshtha/ForkableFullStackQASuite) — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.|
+| 🚀 Current Endeavour  | Python + Automation using *Playwright* · AI engineering from first principles |
+| 🔬 Latest Build | [Forkable AI Engineering: Starter Pack to Full Send](https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send) — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources. [Forkable Playwright Self-Healer](https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer) — Playwright tests that repair their own locators, fully offline. [ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit) - Interview prep for QA/SDET roles, with runnable proof rather than bullet points. [ForkableFullStackQASuite](https://github.com/suryakulshreshtha/ForkableFullStackQASuite) — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.|
 | 🤝 Collaboration | Looking to collaborate on projects |
 | 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), [![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white)], [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
 | 📂 Repositories | Looking to collaborate on projects.  |
@@ -48,6 +48,12 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 | **[ForkableTypescriptPostgreReactNodejsLearning](https://github.com/suryakulshreshtha/ForkableTypescriptPostgreReactNodejsLearning)** | Full-stack playground — an app worth testing, front to back | `TypeScript` `React` `Node.js` `PostgreSQL` |
 | **[ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)** | Interview prep for QA/SDET roles, with runnable proof rather than bullet points | `TypeScript` `Python` |
 
+### 🤖 AI engineering
+
+| Repo | What it is | Stack |
+|---|---|---|
+| **[Forkable-AI-Engineering-Starter-Pack-To-Full-Send](https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send)** | Nine levels, 28 drills: autograd, tokenizers, attention, BM25 retrieval, agents and evals, each judged by tests. The capstone is a RAG engine that answers with citations or refuses | `Python` `stdlib only` `RAG` `Agents` |
+
 ### 📌 Suggested reading order
 
 ```
@@ -58,6 +64,7 @@ ForkablePythonProjectShowcase       →  the full framework
 ForkableFullStackQASuite            →  two teams, two languages, one test plan
 ForkablePlaywrightSelfHealer        →  make it survive the app changing
 ForkableInterviewToolkit            →  talk about all of it convincingly
+Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be testing
 ```
 
 ---
@@ -72,6 +79,8 @@ ForkableInterviewToolkit            →  talk about all of it convincingly
 
 **Data** ·  PostgreSQL · MongoDB · MSSQL
 
+**AI** ·  RAG · BM25 · autograd · attention · agents · LLM evals
+
 **Ops** ·  Docker · GitHub Actions · Git · GitLab · Postman
 
 ---
@@ -84,6 +93,7 @@ ForkableInterviewToolkit            →  talk about all of it convincingly
 - **CI/CD for tests** — parallelisation, containerised runs, reporting that people actually read
 - **API + UI in one suite** — setting state through the API, asserting through the UI
 - **Multi-team test governance** — one shared test plan and fixture set, independently implemented in TypeScript and Python so two teams catch different blind spots
+- **AI engineering from scratch** — autograd, attention, retrieval and agents in plain Python, every piece judged by tests ([Full Send](https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send))
 
 ---
 
