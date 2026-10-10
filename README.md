@@ -10,8 +10,8 @@
 | 🚀 Current Endeavour  | Python + Automation using *Playwright* · AI engineering from first principles |
 | 🔬 Latest Build | <ul><li><b><a href="https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send">Forkable AI Engineering: Starter Pack to Full Send</a></b> — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer">Forkable Playwright Self-Healer</a></b> — Playwright tests that repair their own locators, fully offline.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableInterviewToolkit">ForkableInterviewToolkit</a></b> — interview prep for QA/SDET roles, with runnable proof rather than bullet points.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableFullStackQASuite">ForkableFullStackQASuite</a></b> — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.</li></ul> |
 | 🤝 Collaboration | Looking to collaborate on projects |
-| 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), [![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white)], [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
-| 📂 Repositories | Looking to collaborate on projects.  |
+| 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), ![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white), [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
+| 📂 Repositories | 9 `Forkable*` repos, mapped in the [Repository Index](#-repository-index) below |
 
 > *⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.*
 
@@ -57,13 +57,13 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 ### 📌 Suggested reading order
 
 ```
-Forkable04EyeLearningSandbox        →  poke at things, no stakes
-ForkablePythonLearningShowcase      →  learn the primitives
-Forkable04EyePythonPlaywrightLearning →  put a suite in CI
-ForkablePythonProjectShowcase       →  the full framework
-ForkableFullStackQASuite            →  two teams, two languages, one test plan
-ForkablePlaywrightSelfHealer        →  make it survive the app changing
-ForkableInterviewToolkit            →  talk about all of it convincingly
+Forkable04EyeLearningSandbox                       →  poke at things, no stakes
+ForkablePythonLearningShowcase                     →  learn the primitives
+Forkable04EyePythonPlaywrightLearning              →  put a suite in CI
+ForkablePythonProjectShowcase                      →  the full framework
+ForkableFullStackQASuite                           →  two teams, two languages, one test plan
+ForkablePlaywrightSelfHealer                       →  make it survive the app changing
+ForkableInterviewToolkit                           →  talk about all of it convincingly
 Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be testing
 ```
 
@@ -103,10 +103,9 @@ These predate the automation work by about a decade. They stay because they were
 
 | File | Why it's still here |
 |---|---|
-| [How do I learn programming & subsequently software development?](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/How%20do%20I%20learn%20programming%20%26%20subsequently%20software%20development%20%28Android%20%26%20iOS%20in%20particular%29%20%3F) | Still the answer I'd give someone starting out |
-| [50 Programming Languages That Matter](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/50%20Programming%20Languages%20That%20Matter) | ~2015 snapshot. Left unedited — a time capsule of what "mattered" then |
-| [Xcode Keyboard Shortcuts](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/Xcode%20Keyboard%20Shortcuts.md) | Reformatted and refreshed for current Xcode |
-| [Rock Paper Scissors in Python](https://github.com/suryakulshreshtha/SuryaKulshreshtha/blob/master/Rock%20Paper%20Scissors%20in%20Python) | The first thing I wrote here. It stays. |
+| [How do I learn programming & subsequently software development?](https://github.com/suryakulshreshtha/suryakulshreshtha/blob/master/How%20do%20I%20learn%20programming%20%26%20subsequently%20software%20development%20%28Android%20%26%20iOS%20in%20particular%29%20%3F.md) | Still the answer I'd give someone starting out |
+| [Mac OS X Terminal Basic Commands](https://github.com/suryakulshreshtha/suryakulshreshtha/blob/master/Mac%20OsX%20Terminal%20Basic%20Commands.md) | The terminal basics I still reach for |
+| [Rock Paper Scissors in Python](https://github.com/suryakulshreshtha/suryakulshreshtha/blob/master/Rock%20Paper%20Scissors%20in%20Python.py) | The first thing I wrote here. It stays. |
 
 ---
 
