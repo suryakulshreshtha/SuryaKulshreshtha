@@ -7,11 +7,11 @@
 
 | Info | Details |
 |--------------|---------|
-| 🚀 Current Endeavour  | Python + Automation using *Playwright* · AI engineering from first principles |
-| 🔬 Latest Build | <ul><li><b><a href="https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send">Forkable AI Engineering: Starter Pack to Full Send</a></b> — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer">Forkable Playwright Self-Healer</a></b> — Playwright tests that repair their own locators, fully offline.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableInterviewToolkit">ForkableInterviewToolkit</a></b> — interview prep for QA/SDET roles, with runnable proof rather than bullet points.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableFullStackQASuite">ForkableFullStackQASuite</a></b> — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.</li></ul> |
+| 🚀 Current Endeavour  | Python + Automation using Playwright · AI engineering from first principles · DevOps from setup to full send |
+| 🔬 Latest Build | <ul><li><b><a href="https://github.com/suryakulshreshtha/Forkable-DevOps-Complete-StarterPack-To-FullSend">Forkable DevOps: Complete Starter Pack to Full Send</a></b> — nine phases from workstation setup to a capstone, around one small Python service: tests, CI/CD, containers, Kubernetes, Terraform, SLOs and a read-only CI triage agent.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send">Forkable AI Engineering: Starter Pack to Full Send</a></b> — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer">Forkable Playwright Self-Healer</a></b> — Playwright tests that repair their own locators, fully offline.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableInterviewToolkit">ForkableInterviewToolkit</a></b> — interview prep for QA/SDET roles, with runnable proof rather than bullet points.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableFullStackQASuite">ForkableFullStackQASuite</a></b> — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.</li></ul> |
 | 🤝 Collaboration | Looking to collaborate on projects |
 | 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), ![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white), [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
-| 📂 Repositories | 9 `Forkable*` repos, mapped in the [Repository Index](#-repository-index) below |
+| 📂 Repositories | 10 `Forkable*` repos, mapped in the [Repository Index](#-repository-index) below |
 
 > *⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.*
 
@@ -48,6 +48,16 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 | **[ForkableTypescriptPostgreReactNodejsLearning](https://github.com/suryakulshreshtha/ForkableTypescriptPostgreReactNodejsLearning)** | Full-stack playground — an app worth testing, front to back | `TypeScript` `React` `Node.js` `PostgreSQL` |
 | **[ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)** | Interview prep for QA/SDET roles, with runnable proof rather than bullet points | `TypeScript` `Python` |
 
+🚢 DevOps & delivery
+Repo	What it is	Stack
+Forkable-DevOps-Complete-StarterPack-To-FullSend	Nine phases from workstation setup to a capstone, built around one small service (FullSend): browser tests, CI/CD, containers, Kubernetes, Terraform, SLOs and alerts, supply-chain security, and a read-only CI triage agent. Commands for macOS and Windows	Python FastAPI Playwright Docker Kubernetes Terraform GitHub Actions
+
+### 🚢 DevOps & delivery
+
+| Repo | What it is | Stack |
+|---|---|---|
+| **[Forkable-DevOps-Complete-StarterPack-To-FullSend](https://github.com/suryakulshreshtha/Forkable-DevOps-Complete-StarterPack-To-FullSend)** | Nine phases from workstation setup to a capstone, built around one small service (FullSend): browser tests, CI/CD, containers, Kubernetes, Terraform, SLOs and alerts, supply-chain security, and a read-only CI triage agent. Commands for macOS and Windows | `Python` `FastAPI` `Playwright` `Docker` `Kubernetes` `Terraform` `GitHub Actions` |
+
 ### 🤖 AI engineering
 
 | Repo | What it is | Stack |
@@ -64,6 +74,7 @@ ForkablePythonProjectShowcase                      →  the full framework
 ForkableFullStackQASuite                           →  two teams, two languages, one test plan
 ForkablePlaywrightSelfHealer                       →  make it survive the app changing
 ForkableInterviewToolkit                           →  talk about all of it convincingly
+Forkable-DevOps-Complete-StarterPack-To-FullSend   →  ship it, run it, keep it observable
 Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be testing
 ```
 
@@ -71,33 +82,37 @@ Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be t
 
 ## 🛠️ Stack
 
-**Languages** ·  Python · TypeScript · JavaScript · SQL
+**Languages** · Python · TypeScript · JavaScript · SQL
 
-**Testing** ·  Playwright · Pytest · Page Object Model · API & contract testing · network mocking
+**Testing** · Playwright · Pytest · Page Object Model · API & contract testing · network mocking
 
 **App/Backend** · Node.js · Express · FastAPI · React · Next.js · Chart.js
 
-**Data** ·  PostgreSQL · MongoDB · MSSQL
+**Data** · PostgreSQL · MongoDB · MSSQL
 
-**AI** ·  RAG · BM25 · autograd · attention · agents · LLM evals
+**AI** · RAG · BM25 · autograd · attention · agents · LLM evals
 
-**Ops** ·  Docker · GitHub Actions · Git · GitLab · Postman
+**Ops** · Docker · GitHub Actions · Git · GitLab · Postman · Kubernetes · Helm · Argo CD · Terraform · Prometheus · Grafana
 
 ---
 
 ## 🎯 What I work on
 
-- **Framework architecture** — layering, fixtures, test data strategy, keeping suites maintainable past 500 tests
-- **Flake elimination** — deterministic waits, isolation, retries that don't hide bugs
-- **Self-healing automation** — locators that survive UI churn without a human in the loop
-- **CI/CD for tests** — parallelisation, containerised runs, reporting that people actually read
-- **API + UI in one suite** — setting state through the API, asserting through the UI
-- **Multi-team test governance** — one shared test plan and fixture set, independently implemented in TypeScript and Python so two teams catch different blind spots
-- **AI engineering from scratch** — autograd, attention, retrieval and agents in plain Python, every piece judged by tests ([Full Send](https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send))
+---
+Framework architecture — layering, fixtures, test data strategy, keeping suites maintainable past 500 tests
+Flake elimination — deterministic waits, isolation, retries that don't hide bugs
+Self-healing automation — locators that survive UI churn without a human in the loop
+CI/CD for tests — parallelisation, containerised runs, reporting that people actually read
+API + UI in one suite — setting state through the API, asserting through the UI
+Multi-team test governance — one shared test plan and fixture set, independently implemented in TypeScript and Python so two teams catch different blind spots
+DevOps from setup to full send — one small service taken through tests, CI/CD, containers, Kubernetes, Terraform, SLOs and supply-chain security, with Playwright browser tests in the loop (DevOps Starter Pack)
+AI engineering from scratch — autograd, attention, retrieval and agents in plain Python, every piece judged by tests (Full Send)
 
 ---
 
 ## 🗄️ Archive — early notes, kept on purpose
+
+---
 
 These predate the automation work by about a decade. They stay because they were useful once, and the "how do I start" one still is.
 
