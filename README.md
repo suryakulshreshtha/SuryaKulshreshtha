@@ -48,10 +48,6 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 | **[ForkableTypescriptPostgreReactNodejsLearning](https://github.com/suryakulshreshtha/ForkableTypescriptPostgreReactNodejsLearning)** | Full-stack playground — an app worth testing, front to back | `TypeScript` `React` `Node.js` `PostgreSQL` |
 | **[ForkableInterviewToolkit](https://github.com/suryakulshreshtha/ForkableInterviewToolkit)** | Interview prep for QA/SDET roles, with runnable proof rather than bullet points | `TypeScript` `Python` |
 
-🚢 DevOps & delivery
-Repo	What it is	Stack
-Forkable-DevOps-Complete-StarterPack-To-FullSend	Nine phases from workstation setup to a capstone, built around one small service (FullSend): browser tests, CI/CD, containers, Kubernetes, Terraform, SLOs and alerts, supply-chain security, and a read-only CI triage agent. Commands for macOS and Windows	Python FastAPI Playwright Docker Kubernetes Terraform GitHub Actions
-
 ### 🚢 DevOps & delivery
 
 | Repo | What it is | Stack |
@@ -98,21 +94,18 @@ Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be t
 
 ## 🎯 What I work on
 
----
-Framework architecture — layering, fixtures, test data strategy, keeping suites maintainable past 500 tests
-Flake elimination — deterministic waits, isolation, retries that don't hide bugs
-Self-healing automation — locators that survive UI churn without a human in the loop
-CI/CD for tests — parallelisation, containerised runs, reporting that people actually read
-API + UI in one suite — setting state through the API, asserting through the UI
-Multi-team test governance — one shared test plan and fixture set, independently implemented in TypeScript and Python so two teams catch different blind spots
-DevOps from setup to full send — one small service taken through tests, CI/CD, containers, Kubernetes, Terraform, SLOs and supply-chain security, with Playwright browser tests in the loop (DevOps Starter Pack)
-AI engineering from scratch — autograd, attention, retrieval and agents in plain Python, every piece judged by tests (Full Send)
+- Framework architecture — layering, fixtures, test data strategy, keeping suites maintainable past 500 tests
+- Flake elimination — deterministic waits, isolation, retries that don't hide bugs
+- Self-healing automation — locators that survive UI churn without a human in the loop
+- CI/CD for tests — parallelisation, containerised runs, reporting that people actually read
+- API + UI in one suite — setting state through the API, asserting through the UI
+- Multi-team test governance — one shared test plan and fixture set, independently implemented in TypeScript and Python so two teams catch different blind spots
+- DevOps from setup to full send — one small service taken through tests, CI/CD, containers, Kubernetes, Terraform, SLOs and supply-chain security, with Playwright browser tests in the loop (DevOps Starter Pack)
+- AI engineering from scratch — autograd, attention, retrieval and agents in plain Python, every piece judged by tests (Full Send)
 
 ---
 
 ## 🗄️ Archive — early notes, kept on purpose
-
----
 
 These predate the automation work by about a decade. They stay because they were useful once, and the "how do I start" one still is.
 
