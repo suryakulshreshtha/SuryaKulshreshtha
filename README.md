@@ -2,8 +2,9 @@
 
 **SDET · Test Automation Architect** — Python • Playwright • TypeScript • CI/CD
 
-🇮🇳 
+<a href="https://suryakulshreshtha.github.io"><img src="https://suryakulshreshtha.github.io/og.png" alt="surya kulshreshtha, PO-QA SDET / Test Automation Engineer: opens suryakulshreshtha.github.io" width="100%"></a>
 
+🇮🇳
 
 | Info | Details |
 |--------------|---------|
