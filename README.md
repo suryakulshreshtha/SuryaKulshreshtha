@@ -9,10 +9,10 @@
 | Info | Details |
 |--------------|---------|
 | 🚀 Current Endeavour  | Python + Automation using Playwright · AI engineering from first principles · DevOps from setup to full send |
-| 🔬 Latest Build | <ul><li><b><a href="https://github.com/suryakulshreshtha/Forkable-DevOps-Complete-StarterPack-To-FullSend">Forkable DevOps: Complete Starter Pack to Full Send</a></b> — nine phases from workstation setup to a capstone, around one small Python service: tests, CI/CD, containers, Kubernetes, Terraform, SLOs and a read-only CI triage agent.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send">Forkable AI Engineering: Starter Pack to Full Send</a></b> — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer">Forkable Playwright Self-Healer</a></b> — Playwright tests that repair their own locators, fully offline.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableInterviewToolkit">ForkableInterviewToolkit</a></b> — interview prep for QA/SDET roles, with runnable proof rather than bullet points.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableFullStackQASuite">ForkableFullStackQASuite</a></b> — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.</li></ul> |
+| 🔬 Latest Build | <ul><li><b><a href="https://github.com/suryakulshreshtha/Forkable-ToDoNotes">Forkable-ToDoNotes</a></b> — a standalone, offline Python notes app built in 12 tagged chapters: Flask, SQLite FTS5 search, a purple design system, Playwright proof and double-click app builds for macOS, Windows and Linux.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-DevOps-Complete-StarterPack-To-FullSend">Forkable DevOps: Complete Starter Pack to Full Send</a></b> — nine phases from workstation setup to a capstone, around one small Python service: tests, CI/CD, containers, Kubernetes, Terraform, SLOs and a read-only CI triage agent.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send">Forkable AI Engineering: Starter Pack to Full Send</a></b> — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer">Forkable Playwright Self-Healer</a></b> — Playwright tests that repair their own locators, fully offline.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableInterviewToolkit">ForkableInterviewToolkit</a></b> — interview prep for QA/SDET roles, with runnable proof rather than bullet points.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableFullStackQASuite">ForkableFullStackQASuite</a></b> — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.</li></ul> |
 | 🤝 Collaboration | Looking to collaborate on projects |
 | 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), ![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white), [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
-| 📂 Repositories | 10 `Forkable*` repos, mapped in the [Repository Index](#-repository-index) below |
+| 📂 Repositories | 11 `Forkable*` repos, mapped in the [Repository Index](#-repository-index) below |
 
 > *⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.*
 
@@ -38,6 +38,7 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 | Repo | What it is | Stack |
 |---|---|---|
 | **[ForkablePythonLearningShowcase](https://github.com/suryakulshreshtha/ForkablePythonLearningShowcase)** | Test automation fundamentals, built up step by step | `Python` |
+| **[Forkable-ToDoNotes](https://github.com/suryakulshreshtha/Forkable-ToDoNotes)** | Build a standalone notes + to-do app from an empty folder: 5 sections, 12 chapters, each a Git tag that passes its own tests. SQLite FTS5 search, a WCAG-checked purple theme, Playwright offline proof, PyInstaller releases. Commands for macOS and Windows | `Python` `Flask` `SQLite` `Playwright` `GitHub Actions` |
 | **[Forkable04EyePythonPlaywrightLearning](https://github.com/suryakulshreshtha/Forkable04EyePythonPlaywrightLearning)** | E2E testing workflows — sample suites wired to GitHub Actions CI | `Python` `Playwright` |
 | **[Forkable04EyeLearningSandbox](https://github.com/suryakulshreshtha/Forkable04EyeLearningSandbox)** | Scratchpad for testing practitioners — experiments, patterns, spikes | `Python` |
 
@@ -66,6 +67,7 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 ```
 Forkable04EyeLearningSandbox                       →  poke at things, no stakes
 ForkablePythonLearningShowcase                     →  learn the primitives
+Forkable-ToDoNotes                                 →  build a real app, chapter by chapter, and prove it works
 Forkable04EyePythonPlaywrightLearning              →  put a suite in CI
 ForkablePythonProjectShowcase                      →  the full framework
 ForkableFullStackQASuite                           →  two teams, two languages, one test plan
@@ -83,9 +85,9 @@ Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be t
 
 **Testing** · Playwright · Pytest · Page Object Model · API & contract testing · network mocking
 
-**App/Backend** · Node.js · Express · FastAPI · React · Next.js · Chart.js
+**App/Backend** · Node.js · Express · FastAPI · Flask · React · Next.js · Chart.js
 
-**Data** · PostgreSQL · MongoDB · MSSQL
+**Data** · PostgreSQL · MongoDB · MSSQL · SQLite (FTS5)
 
 **AI** · RAG · BM25 · autograd · attention · agents · LLM evals
 
@@ -103,6 +105,7 @@ Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be t
 - Multi-team test governance — one shared test plan and fixture set, independently implemented in TypeScript and Python so two teams catch different blind spots
 - DevOps from setup to full send — one small service taken through tests, CI/CD, containers, Kubernetes, Terraform, SLOs and supply-chain security, with Playwright browser tests in the loop (DevOps Starter Pack)
 - AI engineering from scratch — autograd, attention, retrieval and agents in plain Python, every piece judged by tests (Full Send)
+- Learning repos tested like products — every chapter a Git tag that passes its own unit and browser tests, docs whose code excerpts are checked against the source (Forkable-ToDoNotes)
 
 ---
 
