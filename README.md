@@ -9,10 +9,11 @@
 | Info | Details |
 |--------------|---------|
 | 🚀 Current Endeavour  | Python + Automation using Playwright · AI engineering from first principles · DevOps from setup to full send |
-| 🔬 Latest Build | <ul><li><b><a href="https://github.com/suryakulshreshtha/Forkable-ToDoNotes">Forkable-ToDoNotes</a></b> — a standalone, offline Python notes app built in 12 tagged chapters: Flask, SQLite FTS5 search, a purple design system, Playwright proof and double-click app builds for macOS, Windows and Linux.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-DevOps-Complete-StarterPack-To-FullSend">Forkable DevOps: Complete Starter Pack to Full Send</a></b> — nine phases from workstation setup to a capstone, around one small Python service: tests, CI/CD, containers, Kubernetes, Terraform, SLOs and a read-only CI triage agent.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send">Forkable AI Engineering: Starter Pack to Full Send</a></b> — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer">Forkable Playwright Self-Healer</a></b> — Playwright tests that repair their own locators, fully offline.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableInterviewToolkit">ForkableInterviewToolkit</a></b> — interview prep for QA/SDET roles, with runnable proof rather than bullet points.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableFullStackQASuite">ForkableFullStackQASuite</a></b> — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.</li></ul> |
+| 🔬 Latest Build | <ul><li><b><a href="https://github.com/suryakulshreshtha/NotAWatchFace-Garmin">NotAWatchFace-Garmin</a></b> — two watch faces for the Garmin Instinct 2 Solar Tactical, written in Monkey C and live on the Connect IQ Store, each with a line-by-line guide to its code.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-ToDoNotes">Forkable-ToDoNotes</a></b> — a standalone, offline Python notes app built in 12 tagged chapters: Flask, SQLite FTS5 search, a purple design system, Playwright proof and double-click app builds for macOS, Windows and Linux.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-DevOps-Complete-StarterPack-To-FullSend">Forkable DevOps: Complete Starter Pack to Full Send</a></b> — nine phases from workstation setup to a capstone, around one small Python service: tests, CI/CD, containers, Kubernetes, Terraform, SLOs and a read-only CI triage agent.</li><li><b><a href="https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send">Forkable AI Engineering: Starter Pack to Full Send</a></b> — 28 zero-dependency Python drills, from a dot product to a RAG engine that cites its sources.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkablePlaywrightSelfHealer">Forkable Playwright Self-Healer</a></b> — Playwright tests that repair their own locators, fully offline.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableInterviewToolkit">ForkableInterviewToolkit</a></b> — interview prep for QA/SDET roles, with runnable proof rather than bullet points.</li><li><b><a href="https://github.com/suryakulshreshtha/ForkableFullStackQASuite">ForkableFullStackQASuite</a></b> — two independent Playwright suites (TypeScript + Python) testing one employee CRM against a single shared test plan.</li></ul> |
 | 🤝 Collaboration | Looking to collaborate on projects |
+| ⌚ Watch faces | [NotAWatchFace Analogue](https://apps.garmin.com/apps/6a2355c0-1984-43ea-807d-c7742cecb055) · [NotAWatchFace Digital](https://apps.garmin.com/apps/8f0efe92-5363-4ee6-a537-8fa09dc91be7) on the Garmin Connect IQ Store · source in [NotAWatchFace-Garmin](https://github.com/suryakulshreshtha/NotAWatchFace-Garmin) |
 | 📧 Contact   | [![Website](https://img.shields.io/badge/Website-suryakulshreshtha.in-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.suryakulshreshtha.in), ![Email](https://img.shields.io/badge/Email-NeedToKnow-ea4335?style=flat-square&logo=maildotru&logoColor=white), [![GitHub](https://img.shields.io/badge/GitHub-@suryakulshreshtha-181717?style=flat-square&logo=github)](https://github.com/suryakulshreshtha) |
-| 📂 Repositories | 11 `Forkable*` repos, mapped in the [Repository Index](#-repository-index) below |
+| 📂 Repositories | 11 `Forkable*` repos plus the NotAWatchFace-Garmin watch faces, mapped in the [Repository Index](#-repository-index) below |
 
 > *⭐ If a `Forkable*` repo saves you an afternoon, a star helps someone else find it.*
 
@@ -20,7 +21,7 @@
 
 ## 🧭 This repository is my index
 
-Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it or throw it away. This page is the map — what each repo is, what stack it uses, and the order to read them in.
+Nearly everything I publish is a **`Forkable*` repository**: clone it, run it, keep it or throw it away. The exception is the watch faces in **NotAWatchFace-Garmin**. This page is the map — what each repo is, what stack it uses, and the order to read them in.
 
 ---
 
@@ -62,6 +63,12 @@ Everything I publish is a **`Forkable*` repository**: clone it, run it, keep it 
 |---|---|---|
 | **[Forkable-AI-Engineering-Starter-Pack-To-Full-Send](https://github.com/suryakulshreshtha/Forkable-AI-Engineering-Starter-Pack-To-Full-Send)** | Nine levels, 28 drills: autograd, tokenizers, attention, BM25 retrieval, agents and evals, each judged by tests. The capstone is a RAG engine that answers with citations or refuses | `Python` `stdlib only` `RAG` `Agents` |
 
+### ⌚ Wearables
+
+| Repo | What it is | Stack |
+|---|---|---|
+| **[NotAWatchFace-Garmin](https://github.com/suryakulshreshtha/NotAWatchFace-Garmin)** | Two watch faces for the Garmin Instinct 2 Solar Tactical (176×176, two-colour display), each with a line-by-line guide to its code. Install from the store — [NotAWatchFace Analogue](https://apps.garmin.com/apps/6a2355c0-1984-43ea-807d-c7742cecb055) · [NotAWatchFace Digital](https://apps.garmin.com/apps/8f0efe92-5363-4ee6-a537-8fa09dc91be7) — or build from source | `Monkey C` `Garmin Connect IQ` |
+
 ### 📌 Suggested reading order
 
 ```
@@ -75,13 +82,14 @@ ForkablePlaywrightSelfHealer                       →  make it survive the app 
 ForkableInterviewToolkit                           →  talk about all of it convincingly
 Forkable-DevOps-Complete-StarterPack-To-FullSend   →  ship it, run it, keep it observable
 Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be testing
+NotAWatchFace-Garmin                               →  a side trip: two watch faces, from VS Code to the Garmin store
 ```
 
 ---
 
 ## 🛠️ Stack
 
-**Languages** · Python · TypeScript · JavaScript · SQL
+**Languages** · Python · TypeScript · JavaScript · SQL · Monkey C
 
 **Testing** · Playwright · Pytest · Page Object Model · API & contract testing · network mocking
 
@@ -92,6 +100,8 @@ Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be t
 **AI** · RAG · BM25 · autograd · attention · agents · LLM evals
 
 **Ops** · Docker · GitHub Actions · Git · GitLab · Postman · Kubernetes · Helm · Argo CD · Terraform · Prometheus · Grafana
+
+**Wearables** · Garmin Connect IQ · Instinct 2
 
 ---
 
@@ -106,6 +116,7 @@ Forkable-AI-Engineering-Starter-Pack-To-Full-Send  →  build the AI you'll be t
 - DevOps from setup to full send — one small service taken through tests, CI/CD, containers, Kubernetes, Terraform, SLOs and supply-chain security, with Playwright browser tests in the loop (DevOps Starter Pack)
 - AI engineering from scratch — autograd, attention, retrieval and agents in plain Python, every piece judged by tests (Full Send)
 - Learning repos tested like products — every chapter a Git tag that passes its own unit and browser tests, docs whose code excerpts are checked against the source (Forkable-ToDoNotes)
+- Shipping to a public store — two Garmin watch faces taken from VS Code through the Connect IQ Store (NotAWatchFace-Garmin)
 
 ---
 
